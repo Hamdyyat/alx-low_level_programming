@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * rot13 - encodes a string in rot13
